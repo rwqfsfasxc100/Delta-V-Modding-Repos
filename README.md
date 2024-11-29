@@ -1,7 +1,7 @@
 # Delta-V-Modding-Repos
 Collection of all known mod and tool repositories for the game Delta-V: Rings of Saturn
 
-MODS:
+## MODS:
 ZKYLoader - Mod loader extention library that provides additional code for the ease of writing and running mods - https://github.com/ZakrinYoran/ZKYLoader
 SaveEdit - Allows the editing, extraction, and import of saves to mess with internal info that normally wouldn't be possible. Does taint a save if used, so be careful. - https://github.com/ZakrinYoran/SaveEdit
 ZKYs of Saturn - Compilation of 3 content mods: ZKY, DroneOCP, and MoreMinerals. Read the repository's readme for more info - https://github.com/ZakrinYoran/ZKYs-of-Saturn
@@ -16,5 +16,5 @@ Industries of Enceladus - content mod that adds several new power solutions, thr
 ZAPeroid - adds a variant of the Thrusteroid event that uses ZAP drives instead - https://discord.com/channels/426287934870781952/1305976254998249582
 Realistic Minerals - changes the game's mineral selection to instead use resources that would be much more likely to be found in the rings - https://github.com/JCalebBR/Realistic-Minerals
 
-TOOLS:
+## TOOLS:
 Vein Finder Tool - part of the Map the Rings Initiative, a tool that lets you see the varying ore densities on any part of the ring map on a given seed - https://github.com/uniqueuser-name/DV-shenanigans
