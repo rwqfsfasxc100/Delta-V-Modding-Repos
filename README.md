@@ -30,3 +30,5 @@ Realistic Minerals - changes the game's mineral selection to instead use resourc
 
 ## TOOLS:
 Vein Finder Tool - part of the Map the Rings Initiative, a tool that lets you see the varying ore densities on any part of the ring map on a given seed - https://github.com/uniqueuser-name/DV-shenanigans
+
+DV Annotate - collection of tools that aide in the process of log collection for bug reports - https://github.com/NimrodXMods/dv-annotate
