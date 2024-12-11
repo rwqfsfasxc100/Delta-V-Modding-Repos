@@ -28,6 +28,8 @@ ZAPeroid - adds a variant of the Thrusteroid event that uses ZAP drives instead 
 
 Realistic Minerals - changes the game's mineral selection to instead use resources that would be much more likely to be found in the rings - https://github.com/JCalebBR/Realistic-Minerals
 
+Derelict Delights - adds the 14 vanilla ships without a derelict form to the derelict pool - https://github.com/rwqfsfasxc100/Derelict-Delights
+
 ## TOOLS:
 Vein Finder Tool - part of the Map the Rings Initiative, a tool that lets you see the varying ore densities on any part of the ring map on a given seed - https://github.com/uniqueuser-name/DV-shenanigans
 
