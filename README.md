@@ -32,6 +32,8 @@ Derelict Delights - adds the 14 vanilla ships without a derelict form to the der
 
 RGB Laser - changes all lasers to have their beams cycle through colours when being used - https://github.com/1-WT-1/RGB-Lasers/releases/latest
 
+No Simulation Hex - removes the hexagonal blur in the Minding Virtual Flight Service - https://www.nexusmods.com/dvringsofsaturn/mods/9
+
 ## TOOLS:
 Vein Finder Tool - part of the Map the Rings Initiative, a tool that lets you see the varying ore densities on any part of the ring map on a given seed - https://github.com/uniqueuser-name/DV-shenanigans
 
