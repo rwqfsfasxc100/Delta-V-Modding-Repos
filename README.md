@@ -28,13 +28,19 @@ ZAPeroid - adds a variant of the Thrusteroid event that uses ZAP drives instead 
 
 Realistic Minerals - changes the game's mineral selection to instead use resources that would be much more likely to be found in the rings - https://github.com/JCalebBR/Realistic-Minerals
 
-Derelict Delights - content mod that adds the 14 vanilla ships without a derelict form to the derelict pool, plus a lot more - https://github.com/rwqfsfasxc100/Derelict-Delights
+Derelict Delights - content mod that adds the 14 vanilla ships without a derelict form to the derelict pool, plus a lot more. additionally supports several mods, with the list being found on the repo page - https://github.com/rwqfsfasxc100/Derelict-Delights
 
 RGB Laser - changes all lasers to have their beams cycle through colours when being used - https://github.com/1-WT-1/RGB-Lasers/releases/latest
 
 No Simulation Hex - removes the hexagonal blur in the Minding Virtual Flight Service - https://www.nexusmods.com/dvringsofsaturn/mods/9
 
 Kitsune Start - makes starting a new game harder by putting you in an ND-LIS Kitsune as the starting ship - https://github.com/rwqfsfasxc100/Kitsune-Start
+
+OCP Voyager Fix - rotates the Voyager RSLS MPU 180 degrees to combat a common community annoyance with the Voyager's usability in the OCP-209 - https://discord.com/channels/426287934870781952/1331790979304263772/1331790979304263772
+
+Y® - A mod that changes all Elon Interstellar names to use Y® instead, English translations only - https://discord.com/channels/426287934870781952/1331368363569582233/1331368522592292915
+
+EIME_M - Adds a new Model E variant that removes all RCS mountings, and replaces them with 6 additional ZAPs, and makes all ZAP fittings unremovable. Also supports the Y® translation mod - https://github.com/1-WT-1/EIME_M/releases
 
 ## TOOLS:
 Vein Finder Tool - part of the Map the Rings Initiative, a tool that lets you see the varying ore densities on any part of the ring map on a given seed - https://github.com/uniqueuser-name/DV-shenanigans
