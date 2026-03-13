@@ -1,3 +1,6 @@
+# NOTICE
+This page is outdated, and I won't be updating this in future in favour of using the wiki to list all mods, which can be accessed [here](https://delta-v.kodera.pl/index.php/Mod_List)
+
 # Delta-V-Modding-Repos
 Collection of all known mod and tool repositories for the game Delta-V: Rings of Saturn
 
